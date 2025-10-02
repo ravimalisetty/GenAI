@@ -19,5 +19,4 @@ gr.Interface(
     outputs="text", # A single text output for the generated quote
     title="Quote Companion", # The title of your app
     description="Enter a theme or emotion to receive a meaningful quote." # A brief description
-).launch()
-
+).launch(share=True) # Set share=True to get a public link
