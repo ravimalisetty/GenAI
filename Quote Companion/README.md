@@ -52,7 +52,7 @@ Quote Companion/
 ```markdown
 ## 📊 Dataset Format
 
-Your `quotes.csv` should look like this:
+`quotes.csv` should look like this:
 
 ```csv
 theme,quote
@@ -75,4 +75,4 @@ love,"Love recognizes no barriers. – Maya Angelou"
 
 ## 🙋‍♀️ About the Creator
 
-Built by Durga Raviteja Malisetty, a hands-on learner passionate about clean architecture, minimal design, and real-world AI applications. This project reflects growing expertise in LangChain, ChromaDB, HuggingFace, and Gradio — all orchestrated with precision from the command line.
+Built by **Durga Raviteja Malisetty**, a hands-on learner passionate about clean architecture, minimal design, and real-world AI applications. This project reflects growing expertise in LangChain, ChromaDB, HuggingFace, and Gradio — all orchestrated with precision from the command line.
