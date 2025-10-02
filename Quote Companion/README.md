@@ -6,7 +6,7 @@
 
 ## 🖼️ Live Preview
 
-![Quote Companion Screenshot](./Quote Companion Screenshot.png)
+![Quote Companion Screenshot](./QCScreenshot.png)
 
 > A clean, responsive interface built with Gradio. Users enter a theme like “courage” or “failure” and receive a meaningful quote instantly. Powered entirely by local models and vector search.
 
